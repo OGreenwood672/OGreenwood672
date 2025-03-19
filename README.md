@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greenwood</h1>
 
 # 💫 About Me:
-I'm a Computer Science Student makin random projects from time to time
+I'm a Computer Science Student makin random projects from time to time<br />
 I'm currently looking into IMUs :)
 
 
