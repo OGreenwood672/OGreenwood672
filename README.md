@@ -2,10 +2,8 @@
 
 # 💫 About Me:
 I'm a Computer Science Student makin random projects from time to time<br />
-I'm currently looking into IMUs :)
 
 See more <a href="https://ogwood.dev/">here</a>!
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/greenwoodxe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/greenwoodxe) 
