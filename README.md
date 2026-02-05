@@ -20,7 +20,7 @@ I am a Computer Science student at **Queens' College, University of Cambridge**.
 * **Cloud & Ops:** AWS S3, Linux (Remote Server Management)
 
 ### 🧠 AI & Data Science
-* **Libraries:** scikit-learn, NEAT (Genetic Algorithms)
+* **Libraries:** PyTorch, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, NEAT (Genetic Algorithms)
 * **Search Technologies:** OpenSearch, Manticore, LLM-based Vector Search
 * **Research Areas:** Multi-Agent Reinforcement Learning (MAPPO, VQ-VAE)
 
